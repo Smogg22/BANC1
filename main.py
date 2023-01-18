@@ -5,3 +5,6 @@ b="Bonjour petit patapon"
 
 if a > 7000:
     print("J'ai craqué le sac")
+
+
+test= "bonjour tout le monde"
