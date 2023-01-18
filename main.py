@@ -9,6 +9,7 @@ if a > 7000:
 print("Vous me faites chier les développeurs")
 
 test= "bonjour tout le monde"
+test= "au revoir tout seul"
 
 pourquoi je n'ai pas tout 
 (modifdefou)
